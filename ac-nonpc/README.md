@@ -28,4 +28,4 @@ git clone https://github.com/ZAD4YTV/NoNPC [local]/NoNPC
 ##### License
 
 - GNU License GPL V3.0
-- Read the license in this URL: <https://github.com/ZAD4YTV/NoNPC/blob/main/LICENSE>
+- Read the license in this URL: <https://github.com/AloCarDasli/FivemNoNPC/blob/main/ac-nonpc/LICENSE>
